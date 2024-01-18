@@ -1,4 +1,4 @@
-package project_ingsw.ingsw;
+package gui;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

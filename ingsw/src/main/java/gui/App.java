@@ -1,4 +1,4 @@
-package project_ingsw.ingsw;
+package gui;
 
 /**
  * Hello world!
